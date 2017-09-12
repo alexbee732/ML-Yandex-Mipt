@@ -1,0 +1,1 @@
+define("bundles/videojs/layout/nls/ru/controls",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Cast:"Действующие лица",Download:"Загрузить",Fullscreen:"Полный экран",Settings:"Настройки",Subtitles:"Субтитры","Subtitles Off":"Отключить субтитры"}});

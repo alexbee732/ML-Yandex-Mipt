@@ -1,0 +1,1 @@
+define("nls/ru/item-reading",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Complete:"Пройден","Mark as completed":"Пометить как выполненное"}});

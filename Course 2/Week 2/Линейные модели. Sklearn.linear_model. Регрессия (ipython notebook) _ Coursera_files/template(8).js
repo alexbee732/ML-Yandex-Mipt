@@ -1,0 +1,1 @@
+define("bundles/assess/assessmentTypes/videoQuiz/nls/ru/template",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Continue:"Продолжить","Continuing...":"Продолжаем...",Skip:"Пропустить",Submit:"Отправить","Submit error. Please try again.":"Не удалось отправить. Повторите попытку.","Submitting...":"Отправка…"}});

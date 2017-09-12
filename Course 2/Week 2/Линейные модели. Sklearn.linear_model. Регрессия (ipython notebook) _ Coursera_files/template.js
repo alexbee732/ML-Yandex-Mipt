@@ -1,0 +1,1 @@
+define("bundles/assess/questionTypes/optionBase/student/nls/ru/template",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"#{index}.&nbsp;":"#{index}. ","#{score} / #{maxScore} points":"Баллов: #{score} / #{maxScore}",Correct:"Правильно",Incorrect:"Неправильно"}});

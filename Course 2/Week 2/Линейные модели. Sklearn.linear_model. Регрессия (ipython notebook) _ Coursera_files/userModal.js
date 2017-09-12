@@ -1,0 +1,1 @@
+define("bundles/userModal/views/nls/ru/userModal",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Coursera:"Coursera","Log In":"Войти","Sign Up":"Зарегистрироваться","Universal access to the world’s best education.":"Лучшее в мире образование, доступное каждому."}});

@@ -1,0 +1,1 @@
+define("nls/ru/alice",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Alice:"Элис","Help Center":"Центр поддержки","Lightbulb tip":"Совет",No:"Нет","Not now":"Не сейчас","Was this helpful?":"Было полезно?",Yes:"Да"}});

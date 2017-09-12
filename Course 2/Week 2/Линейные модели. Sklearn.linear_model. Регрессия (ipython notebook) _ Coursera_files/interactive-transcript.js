@@ -1,0 +1,1 @@
+define("nls/ru/interactive-transcript",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Interactive Transcript":"Интерактивный текст видеоматериала","Loading {languageName}...":"Загружаем {languageName}...","Search Transcript":"Искать текст видео"}});

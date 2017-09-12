@@ -1,0 +1,1 @@
+define("bundles/videojs/layout/nls/ru/autoplayMenuSection",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Autoplay:"Автозапуск",Off:"Выключить",On:"Включить"}});

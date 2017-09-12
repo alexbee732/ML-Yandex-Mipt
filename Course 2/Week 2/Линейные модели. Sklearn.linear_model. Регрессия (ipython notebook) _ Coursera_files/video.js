@@ -1,0 +1,1 @@
+define("pages/open-course/video/views/nls/ru/video",["require","exports","module"],function(require,exports,module){"use strict";module.exports={}});

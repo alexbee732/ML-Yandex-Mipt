@@ -1,0 +1,1 @@
+define("pages/open-course/item/views/nls/ru/verifiedCertificateBanner",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"- Get your Course Certificate!":"и получите сертификат о прохождении курса!","GET CERTIFIED":"ПОЛУЧИТЬ СЕРТИФИКАТ","Link your coursework to your identity&nbsp;":"Подтвердите авторство работ "}});

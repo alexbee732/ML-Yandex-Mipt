@@ -1,0 +1,1 @@
+define("nls/ru/item-lecture",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Downloads:"Загрузки","Have a question? Discuss this lecture in the week forums.":"Возник вопрос? Обсудите эту лекцию на форумах недели."}});

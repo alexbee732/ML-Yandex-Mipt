@@ -1,0 +1,1 @@
+define("nls/ru/seo",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Learning:"Обучение"}});

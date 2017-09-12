@@ -1,0 +1,1 @@
+define("nls/ru/profile",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Facebook:"Facebook",GitHub:"GitHub","Google+":"Google+",LinkedIn:"LinkedIn","No threads found.":"Ветки не обнаружены.","Recent Replies":"Последние ответы","Recent Threads":"Последние ветки",Twitter:"Twitter"}});
